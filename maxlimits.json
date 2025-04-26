@@ -1,0 +1,16 @@
+{
+RITWIKI_MAX : {
+    MALAYSIA: 0.5,
+    SINGAPORE: 1.5,
+    AUSTRALIA:1.5,
+    NEW_ZEALAND: 1.5,
+    NETHERLANDS: 1
+  },
+  SWASTAYANI_MAX : {
+      MALAYSIA: 1.9,
+      SINGAPORE: 1,
+      AUSTRALIA:1,
+      NEW_ZEALAND: 1,
+      NETHERLANDS: 1
+  }
+}
